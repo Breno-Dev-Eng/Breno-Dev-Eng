@@ -19,12 +19,14 @@ Desenvolvedor fullstack com domínio em HTML, CSS e JavaScript. Atualmente expan
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 
 ---
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Breno-Dev-Eng&show_icons=true&theme=tokyonight" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Breno-Dev-Eng&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" />
+  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" />
 </a>
+</div>
 
 ---
 
