@@ -35,7 +35,6 @@ Sou um profissional em transição para a área de dados, com foco em **Data Ana
 <div align="center">
   <a href="https://github.com/Breno-Dev-Eng">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Dev-Eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dev-Eng&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
