@@ -7,7 +7,7 @@
 
 ## 🎯 Sobre Mim
 
-Sou um profissional em transição para a área de dados, com foco em **Data Analytics** e em direção ao **Business Analytics**. Minha paixão é desvendar histórias através dos dados, criando soluções analíticas que suportem a tomada de decisão estratégica no mercado financeiro e em fintechs.
+Sou um profissional com foco em **Data Analytics** e em direção ao **Business Analytics**. Minha paixão é desvendar histórias através dos dados, criando soluções analíticas que suportem a tomada de decisão estratégica no mercado financeiro e em fintechs.
 
 **Objetivo Atual:** Busco minha primeira oportunidade como **Analista de Dados Júnior** em fintechs ou empresas do setor financeiro, onde possa aplicar e expandir meus conhecimentos técnicos enquanto contribuo para soluções data-driven.
 
