@@ -1,36 +1,65 @@
-##  Olá, meu nome é Breno!
+## Olá, meu nome é Breno! 👋
 
-Desenvolvedor fullstack com domínio em HTML, CSS e JavaScript. Atualmente expandindo conhecimentos para incluir Python e Golang no arsenal técnico, demonstrando compromisso com crescimento profissional e adaptação às demandas do mercado de tecnologia.
-
-
-
-
+**Analista de Dados em Formação | Futuro Business Analyst**  
+*Transformando dados em insights estratégicos para o setor financeiro*
 
 ---
 
-## 🚀 Minhas Skills
+## 🎯 Sobre Mim
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+Sou um profissional em transição para a área de dados, com foco em **Data Analytics** e em direção ao **Business Analytics**. Minha paixão é desvendar histórias através dos dados, criando soluções analíticas que suportem a tomada de decisão estratégica no mercado financeiro e em fintechs.
+
+**Objetivo Atual:** Busco minha primeira oportunidade como **Analista de Dados Júnior** em fintechs ou empresas do setor financeiro, onde possa aplicar e expandir meus conhecimentos técnicos enquanto contribuo para soluções data-driven.
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
+
+### 💻 **Linguagens & Análise de Dados**
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel"/></code>
+
+### 📊 **Visualização & BI**
+<code><img height="32" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="Power BI"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+
+### 🔧 **Ferramentas & Outros**
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
 ---
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=Breno-Dev-Eng&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=tokyonight" />
-</a>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/Breno-Dev-Eng">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breno-Dev-Eng&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breno-Dev-Eng&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 ---
 
-<a href="https://www.instagram.com/b_ffranca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/breno4549" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+## 🚀 Projetos em Destaque
+
+🔭 **Em desenvolvimento:** Projetos focados em análise de dados financeiros, dashboards interativos e estudos de caso do mercado fintech.
+
+💡 **Interesses atuais:**
+- Análise de dados financeiros e métricas de negócio
+- Criação de dashboards estratégicos no Power BI
+- Modelagem de dados e SQL para analytics
+- Python para análise e automação de processos
+
+---
+
+## 📫 Vamos Conectar!
+
+<a href="https://www.linkedin.com/in/breno-caixeta-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:breno24.caixeta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/breno-caixeta-dev"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/b_ffranca/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+---
+
+Acredito que dados bem analisados são a diferença entre tomar uma decisão e tomar a decisão certa!
